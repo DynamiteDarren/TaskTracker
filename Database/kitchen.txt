@@ -1,0 +1,13 @@
+Dishwasher - 10 768
+Clear sink - 10 0
+Take out Trash - 8 0
+Take out Recycling - 7 0
+Tidy Floor - 4 0
+Wipe Counter - 4 0
+Clean Out Fridge - 2 0
+Vacuum - 2 0
+Wipe Baseboard - 1 0
+Wipe Counter - 1 0
+Change Bug Strip - 1 0
+Tidy Tele+Shoe - 1 0
+Wipe Trashcan - 1 0

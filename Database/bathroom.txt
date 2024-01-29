@@ -1,0 +1,11 @@
+Wipe Sink - 2
+Wipe Mirror - 1
+Wipe Baseboards - 1
+Tidy Floor - 1
+Sweep - 1
+Mop - 1
+Wipe Cabinet - 1
+Clean Shower - 1
+Clean Toilet - 1
+Take out Trash - 1
+Replace Toilet Paper - 1

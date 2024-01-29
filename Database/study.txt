@@ -1,0 +1,6 @@
+Buy Groceries - 4
+Tidy Floor - 4
+Tidy Desk - 4
+Wipe Baseboard - 1
+Vacuum - 1
+Print Trackers - 1

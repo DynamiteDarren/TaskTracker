@@ -1,0 +1,13 @@
+Make Bed - 4
+Wash Towels - 3
+Wash Delecates - 3
+Wash Colors - 3
+Wash Whites - 2
+Fold Towels - 3
+Fold Delecates - 3
+Fold Colors - 3
+Fold Whites - 2
+Tidy Floor - 2
+Wash Sheets - 1
+Wipe Baseboards - 1
+Vacuum - 1
